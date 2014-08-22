@@ -1,0 +1,33 @@
+---
+title: "Returns"
+author: "Roland Padilla"
+highlighter: highlight.js
+output: pdf_document
+job: Cloud Computing and Data Science
+knit: slidify::knit2slides
+mode: selfcontained
+hitheme: tomorrow 
+framework: io2012
+widgets: []
+---
+
+## Context
+
+         "data-->information-->knowledge-->wisdom"
+
+---
+
+## Solution
+
+Calculate by subtracting income and expenses
+
+---
+
+## Feedback
+
+Please send through your suggestions to the Coursera page.
+
+---
+
+## Thank you
+
